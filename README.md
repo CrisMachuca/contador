@@ -20,6 +20,7 @@ Esta aplicación es un contador interactivo y estilizado desarrollado con React 
 1. Clona este repositorio:
 
    git clone https://github.com/CrisMachuca/contador.git
+   
    cd contador
 
 2. Instala las dependencias:
